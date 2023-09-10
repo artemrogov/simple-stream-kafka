@@ -1,4 +1,4 @@
-package com.artemrogov.streamkafka;
+package com.artemrogov.streamkafka.api;
 
 
 import com.artemrogov.streamkafka.exchange.business.ProducerMessage;
