@@ -1,5 +1,9 @@
 ## Spring cloud stream Kafka broker binder
 
+A practical training stand for working with message brokers - Kafka using a data streaming adapter. 
+In this project, a simple docker configuration for Kafka has been assembled, as well as 2 simple message consumers and a message producer have been developed, 
+two channels have been created for receiving and sending to topics.
+
 Docker compose config:
 
 - kafka broker
