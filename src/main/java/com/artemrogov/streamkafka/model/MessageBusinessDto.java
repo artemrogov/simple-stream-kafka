@@ -16,7 +16,6 @@ import java.io.Serializable;
 @NoArgsConstructor
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class MessageBusinessDto implements Serializable {
-
     @JsonProperty("author")
     private String author;
 
