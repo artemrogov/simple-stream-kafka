@@ -37,6 +37,14 @@ curl --location 'http://localhost:9000/publish-message' \
 
 ```
 
+#### Run project
+
+Run kafka broker:
+
+```bash docker-compose up -d```
+
+Run kafka  admin dashboard - http://localhost:8090/ui
+
 #### Links help: 
 
 1. [Documentation Spring Cloud Stream](https://docs.spring.io/spring-cloud-stream/docs/current/reference/html/spring-cloud-stream.html#_configuration_options)
